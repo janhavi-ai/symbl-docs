@@ -371,7 +371,7 @@ The billing for a speaker separated channel audio file is according to the numbe
 So, if you send a 120-second file with 3 speaker separated channels, the total duration for billing would be 360 seconds or 6 minutes.
 :::
 
-### Using Webhook 
+### Using Webhook
 ---
 
 The `webhookUrl` will be used to send the status of job created for uploaded audio url. Every time the status of the job changes it will be notified on the WebhookUrl.
